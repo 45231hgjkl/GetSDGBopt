@@ -1,4 +1,3 @@
-=======
 # Get_SDGB_opt
 
 ## 使用教程
@@ -14,3 +13,4 @@
 5. 若opt_out已存在已有更新包文件夹，则命令行会卡住。
 
 > PS:authlite.py为Fragrance Project创作，本人仅在源文件的基础上加了自动解密功能
+
