@@ -37,6 +37,6 @@ def hello():
     decrypted = dec(key, resp_data[:16], resp_data)
     decrypted_bytes = decrypted[16:]
     decrypted_str = decrypted_bytes.decode('UTF-8')
-    print(decrypted_str)
+    return decrypted_str
 
 hello()
